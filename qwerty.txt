@@ -1,0 +1,8 @@
+[caps]>[rctrl]
+[home]>[lctrl]
+[end]>[lalt]
+[lctrl]>[delete]
+[delete]>[lctrl]
+[enter]>[space]
+[space]>[enter]
+[pdown]>[rwin]
